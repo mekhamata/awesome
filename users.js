@@ -3,3 +3,5 @@ const User = [
   { id: 2, name: "Samar" },
   { id: 3, name: "Ghinwa" },
 ];
+
+const bikes = [{ type: "fast", color: "blue" }];
