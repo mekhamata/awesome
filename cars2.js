@@ -3,3 +3,5 @@ const engine = "v8";
 
 const seats = "4";
 const lights = "4";
+
+const colors = ["red", "blue"];
