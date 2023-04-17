@@ -7,3 +7,5 @@ const User = [
 ];
 
 const bikes = [{ type: "fast", color: "blue" }];
+
+const password = "password123";
